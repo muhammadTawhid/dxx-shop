@@ -1,0 +1,18 @@
+.site-slide {
+    background-color: #fceae8;
+    border-radius: 1em;
+    margin-top: 120px;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.item-footer {
+    border: 0 !important;
+    background-color: white !important;
+}
+
+.item-card {
+    border: 0px !important;
+}
